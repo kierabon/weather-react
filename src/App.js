@@ -11,7 +11,9 @@ function App() {
       <br />
       <WeatherColumn />   
         
-    
+      <footer>
+          <a href="https://github.com/kierabon/weather-react" target="_blank" rel="noreferrer" > View Source Code </a>
+      </footer>
     </div>
   );
 }

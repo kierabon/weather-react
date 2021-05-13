@@ -20,6 +20,7 @@ export default function WeatherColumn() {
       <span className="units" id="units">
         ℃ | ℉
       </span>
+      
     </div>
   );
 }
